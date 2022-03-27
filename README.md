@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @higginp7
 - 👀 I’m interested in R statistics and visualisations
-- 🌱 I’m currently prediction modelling
+- 🌱 I’m currently learning prediction modelling
 - 💞️ I’m looking to improve my understanding of R
 - 📫 How to reach me higginp7@tcd.ie
 
